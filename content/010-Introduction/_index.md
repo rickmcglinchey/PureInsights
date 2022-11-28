@@ -12,7 +12,7 @@ Genesys Cloud CX offers native capability for easy real time monitoring dashboar
 
 For those contact centers who need a little more, Genesys Cloud CX is also a platform, offering powerful REST APIs. Customers with time and resources to program APIs can take that route if they choose. For customers who prefer a prebuilt solution with capabilities to further extend their Genesys Cloud CX implementation, Genesys offers the AppFoundry marketplace.
 
-Genesys AppFoundry marketplace partners like PureInsights offer pre built applications to evolve your Genesys Cloud CX reporting.
+Genesys AppFoundry marketplace partners like PureInsights offer pre built applications to evolve your Genesys Cloud CX reporting and analytics with both real time and historic data.
 
 # Learning Objectives
 In this workshop you will learn about the following:
