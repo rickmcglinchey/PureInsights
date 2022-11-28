@@ -8,6 +8,6 @@ weight: 1
 
 ### Welcome
 
-The goal of this workshop is to introduce you to the native real time dashboard capabilities of the Genesys Cloud CX platform and provide some options to extend your visibility.
+The goal of this workshop is to introduce you to the native real time dashboard capabilities of the Genesys Cloud CX platform and provide some options to enhance visibility into your contact center.
 
 Genesys Cloud CX provides the Performance Dashboard capability natively, which will meet needs for many contact centers. From there, customers with developement resources could create their own analytics tools using the Genesys Cloud platform REST APIs or opt for a prebuilt solution in the Genesys AppFoundry Marketplace such as PureInsights.
