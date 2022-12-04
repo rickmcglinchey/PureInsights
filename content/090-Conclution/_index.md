@@ -6,7 +6,6 @@ weight: 90
 
 # Conclusion
 
-Congrats! You've reached the end of today's workshop.
-Please fill out today's feedback form via this [TODO](TODO)
+Congratulations! Now you have configured a simple yet powerful real time dashboard in Genesys Cloud CX and also added some enhanced capabilities using the PureInsights Real Time Configurable Dashboard! 
 
-{{% children showhidden="false" %}}
+If you have any follow-up questions please visit the PureInsights Real Time Configurable Dashboard or PureInsights Historic pages in the Genesys AppFoundry Marketplace and click “Contact Us” or email pi.sales@mypureinsights.com and please mention you found us in this workshop!
